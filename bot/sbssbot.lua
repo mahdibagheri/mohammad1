@@ -239,32 +239,16 @@ function create_config( )
     "time",
     "welcome"
     },
-    sudo_users = {122774063},--Sudo users
+    sudo_users = {77750573},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Sbss Bot V2 Beta
-    An Advanced Anti Spam Bot Forked On TeleSeed
-    
-    Develpoed By:
-    @Mr_Ah_S
-    Manager:
-    @amiirdada
-    Founder:
-    @AmirQuick
-    
-    Special Thank To:
-    Mehr Pouya
-    Arman
-    IM/-\N
-    Creed Is Dead
-    
-    Powered By @Sbss_Team
-    
-    #Open Source
-    https://github.com/SbssTeam/Sbss
+    about_text = [[این بات فقط فقط متعلق به 
+    @mahdimp3 
+    است و هیچ گونه مدیر و سودو دیگری ندارد
+    aqa mp3 v5.1
 ]],
     help_text_realm = [[
-See Patterns In Github
+به تو ربطی نداره 
 ]],
     help_text = [[
 
@@ -337,9 +321,7 @@ __________________________
 —------------------------------—
 تگ : صدا کردن افراد گروه
 —---------------------—
-نیاز نیست از '!' و '/' استفاده کنید*
-_______________________________
-Writed by SBSS Team
+تولید شده توسط @mahdimp3
 ]]
   }
   serialize_to_file(config, './data/config.lua')
